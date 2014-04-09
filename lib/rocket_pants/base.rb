@@ -13,7 +13,6 @@ module RocketPants
       ActionController::ConditionalGet,
       ActionController::RackDelegation,
       # ActionController::RecordIdentifier,
-      ActionView::RecordIdentifier,
       ActionController::HttpAuthentication::Basic::ControllerMethods,
       ActionController::HttpAuthentication::Digest::ControllerMethods,
       ActionController::HttpAuthentication::Token::ControllerMethods,
